@@ -36,7 +36,7 @@ A cross-platform app for shared tasks, shopping lists, and expense tracking — 
 
 - **Location:** Istanbul, Türkiye
 - **Email:** [aozyilmaz35@gmail.com](mailto:aozyilmaz35@gmail.com)
-- **Company:** [Zoolatech](https://github.com/Zoolatech)
+- **Company:** Turkcell
 
 ---
 
