@@ -18,6 +18,14 @@ My work sits at the intersection of product engineering and hands-on problem sol
 - Emulation and systems programming
 - Practical AI-assisted development workflows
 
+## Featured project
+
+### [Yaploo](https://yaploo.vercel.app)
+
+A cross-platform app for shared tasks, shopping lists, and expense tracking — available on the web, iOS, Android, and macOS.
+
+[Downloads and release notes](https://github.com/AhmetOzyilmaz/releases) · [Website](https://yaploo.vercel.app)
+
 ## A little more about me
 
 - I care about clear architecture, pragmatic engineering, and products that are pleasant to use.
